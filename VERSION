@@ -1,0 +1,7 @@
+Current Version: 1.0
+
+Version 1.0:
+  - Initial publish on github.
+  - python 3 script that uses pysmb's smb.SMBConnection and nmb.NETBIOS classes to enumerate security mode based
+  on a search string against the packet data in the expected response from the target.
+  - 232 lines of code, including comments and spacing.  
